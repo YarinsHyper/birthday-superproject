@@ -42,7 +42,7 @@ services:
       - birthday-service
 
   birthday-ui:
-    build: .
+    image: birthday-ui:latest
     ports:
       - 80:80
     depends_on:
