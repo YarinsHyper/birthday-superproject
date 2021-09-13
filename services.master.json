@@ -1,0 +1,14 @@
+[
+    {
+        "name": "birthday-service",
+        "tag": "master"
+    },
+    {
+        "name": "api-gateway",
+        "tag": "master"
+    },
+    {
+        "name": "birthday-ui",
+        "tag": "master"
+    }
+]
