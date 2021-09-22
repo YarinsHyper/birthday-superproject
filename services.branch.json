@@ -1,14 +1,14 @@
 [
     {
         "name": "birthday-service",
-        "tag": "develop"
+        "tag": "latest"
     },
     {
         "name": "api-gateway",
-        "tag": "develop"
+        "tag": "latest"
     },
     {
         "name": "birthday-ui",
-        "tag": "develop"
+        "tag": "latest"
     }
 ]

@@ -1,0 +1,10 @@
+dependencies:
+- name: birthday-ui
+  repository: file://../birthday-ui
+  version: 0.1.0
+- name: api-gateway
+  repository: file://../api-gateway
+  version: 0.1.0
+- name: birthday-service
+  repository: file://../birthday-service
+  version: 0.1.0

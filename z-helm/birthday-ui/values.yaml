@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  tag: 'develop'
+  tag: 'latest'
 
 nameOverride: 'birthday-ui'
 fullnameOverride: 'birthday-ui'

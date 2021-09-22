@@ -1,9 +1,9 @@
 [submodule "birthday-service"]
 	path = birthday-service
-	url = https://github.com/yarinBenisty/birthday-service
+	url = https://github.com/yarin/birthday-service
 [submodule "api-gateway"]
 	path = api-gateway
-	url = https://github.com/yarinBenisty/api-gateway
+	url = https://github.com/yarin/api-gateway
 [submodule "birthday-ui"]
 	path = birthday-ui
-	url = https://github.com/yarinBenisty/birthday-ui
+	url = https://github.com/yarin/birthday-ui

@@ -8,7 +8,7 @@ set -e # stop script execution on failure
 ## --------------------------------------------------------------------------------------------------------
 # Globals variables
 AZURE_CONTAINER_REGISTRY_NAME="drivehub"                                        # Insert azure conatiner registry name
-AZURE_TEAM_NAME="meateam"                                                       # Insert azure team
+AZURE_TEAM_NAME="yarin"                                                       # Insert azure team
 AZURE_LOGIN_SERVER="$AZURE_CONTAINER_REGISTRY_NAME.azurecr.io/$AZURE_TEAM_NAME" # Insert azure login server
 DATE=$(date +"%d.%m")                                                           # The date of the execution
 HALBANA_FOLDER="../halbana-$DATE"                                               # The name of the halbana folder
